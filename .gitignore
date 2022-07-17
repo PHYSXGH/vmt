@@ -1,2 +1,4 @@
-output/*
+output
 .idea
+venv
+.pytest_cache
